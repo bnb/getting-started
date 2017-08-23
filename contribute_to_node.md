@@ -9,8 +9,6 @@ and we'll label your request as `intro requested`. A collaborator will facilitat
 ### Group contributing guides
 - [Website WG](https://github.com/nodejs/nodejs.org/blob/master/CONTRIBUTING.md#nodejs-community-contributing-guide-10)<br>
   The Website Working Group is primarily concerned with the code and overall structure of the [Node.js](https://nodejs.org) website.
-- [HTTP2](https://github.com/nodejs/http2/blob/master/CONTRIBUTING.md#contributing-to-nodejs)<br>
-  This repository focuses on an HTTP/2 implementation for Node.js Core
 - [citgm](https://github.com/nodejs/citgm/blob/master/CONTRIBUTING.md#making-changes-to-citgm)<br>
   citgm is a tool for pulling down an arbitrary module from npm and testing it using a specific version of the node runtime. The Node.js project uses citgm to smoketest releases and controversial changes.
 - [Diagnostics WG](https://github.com/nodejs/diagnostics#diagnostics-working-group)<br>
